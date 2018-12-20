@@ -1,0 +1,11 @@
+[
+  {
+    "key": {
+      "kind": "MyEntity",
+      "name": "123"
+    },
+    "data": {
+      "description": "Foo"
+    }
+  }
+]
